@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Sort",
+  "version": "1.0.0",
+  "description": "Sort all tabs in the current window.",
+  "icons": {
+    "16": "assets/sort_16.png",
+    "48": "assets/sort_48.png",
+    "128": "assets/sort_128.png"
+  },
+  "browser_action": {},
+  "author": "Peter Han",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["tabs"]
+}

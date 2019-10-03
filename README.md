@@ -1,6 +1,8 @@
-# Sort Tabs
+<div>
+  <img src="https://raw.githubusercontent.com/peterthehan/sort-tabs/master/assets/sort_128.png" title="Sort Tabs" />
+</div>
 
-# About
+# Sort Tabs
 
 Sort all tabs in the current window.
 

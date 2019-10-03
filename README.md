@@ -11,4 +11,4 @@ Sort all tabs in the current window.
 3. Enable `Developer mode` located in the top-right corner.
 4. Drag-and-drop the extracted folder into the Extensions page.
 
-Happy Sorting! 🎉
+Happy Tab Sorting! 🎉
